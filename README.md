@@ -32,5 +32,14 @@ stochastic behavior of deterministic systems
 
 
 ```
+### Real Parabola
+
+unambiguity is disturbed by a rounding error
+
+---
+
+https://www.agamapoint.com/chaos/
+
+https://geoffboeing.com/2015/04/visualizing-chaos-and-randomness/
 
 
